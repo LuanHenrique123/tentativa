@@ -1,0 +1,31 @@
+    <!DOCTYPE html>
+    <html lang="PT-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Meu titulo</title>
+    </head>
+    <body>
+        <div class="box">
+           <h1 class="Meu titulo">Estou estudando</h1>
+
+        <h2 class="Meu Projeto">Meu Projeto</h2>
+
+        <h3>Meu Subtitulo</h3>
+
+        <p>Recentemente desenvolvi um certo interesse por HTML,CSS e JavaScript, estou começando agora então por favor se encontrar alguma falha ou tiver idéias eu estou
+            aceitando qualquer ajuda que possa me ajudar a melhorar e aprender sobre o, desenvolvimento web.</p>
+        <p>Creio eu que seja muito difícil trabalhar nesta area por isso estou contando com as minhas capacidades para poder melhorar cada vez mais.</p>
+
+        <b>Esse texto está em bold</b>
+
+        <br>
+        <strong>esse texto tem mais importância em bold</strong>
+        </br>
+        <p>A seguir veremos uma imagem</p>
+          <img src="/download.jpeg" alt="Uma cachoeira">
+        </div>
+    </body>
+    </html>
+
